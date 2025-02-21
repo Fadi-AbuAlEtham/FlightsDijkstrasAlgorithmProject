@@ -1,0 +1,191 @@
+/* 🌍 Global Application Background */
+.root {
+    -fx-background-color: #EAF2F8; /* Light Sky Blue for overall app background */
+}
+
+/* 📊 VBox (Control Panel) Styling */
+.vbox {
+    -fx-background-color: #FFFFFF; /* Clean White Background */
+    -fx-border-color: #B0BEC5; /* Soft Grey Border */
+    -fx-border-width: 2px;
+    -fx-background-radius: 20px; /* Curved Corners */
+    -fx-border-radius: 20px;
+    -fx-padding: 20px;
+    -fx-spacing: 15px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.2), 10, 0.3, 0, 4); /* Subtle Shadow */
+}
+
+/* 🏷️ Labels Styling */
+.label {
+    -fx-font-family: "Verdana";
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2C3E50; /* Dark Blue for text */
+    -fx-padding: 5px;
+}
+
+/* 🎛️ ComboBoxes (Source, Target, Filter) */
+.combo-box {
+    -fx-background-color: #FDFEFE; /* Bright White Background */
+    -fx-border-color: #B0BEC5; /* Soft Grey Border */
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+    -fx-padding: 5px 10px;
+    -fx-font-family: "Arial";
+    -fx-font-size: 14px;
+    -fx-text-fill: #2C3E50; /* Dark Blue */
+}
+
+.combo-box:hover {
+    -fx-border-color: #5DADE2; /* Light Blue on Hover */
+}
+
+/* ✅ Run Button Styling */
+.button {
+    -fx-background-color: #5DADE2; /* Light Blue Button */
+    -fx-border-color: #2C3E50; /* Dark Blue Border */
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-text-fill: #FFFFFF; /* White Text */
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+    -fx-padding: 10 20;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 5, 0.3, 0, 2);
+}
+
+.button:hover {
+    -fx-background-color: #3498DB; /* Slightly Darker Blue */
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+}
+
+.button:pressed {
+    -fx-background-color: #2C3E50; /* Dark Blue on Click */
+}
+
+/* 📝 TextArea (Keep Original Style) */
+.text-area {
+    -fx-background-color: #FFF5E1; /* Light Cream */
+    -fx-border-color: #D4AF37; /* Gold Border */
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-font-family: "Arial";
+    -fx-font-size: 14px;
+    -fx-text-fill: #2F4F4F; /* Dark Slate Gray */
+    -fx-padding: 10;
+}
+
+/* 🔢 TextFields (Distance, Cost, Time) */
+.text-field {
+    -fx-background-color: #FDFEFE; /* Bright White Background */
+    -fx-border-color: #B0BEC5; /* Soft Grey Border */
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+    -fx-font-family: "Arial";
+    -fx-font-size: 14px;
+    -fx-text-fill: #2C3E50; /* Dark Blue */
+    -fx-padding: 5px 10px;
+}
+
+.text-field:focused {
+    -fx-border-color: #5DADE2; /* Light Blue Border when Focused */
+    -fx-effect: dropshadow(gaussian, rgba(93, 173, 226, 0.5), 5, 0.5, 0, 0);
+}
+
+/* 🖌️ Canvas Styling (For Map Interaction) */
+.canvas {
+    -fx-border-color: #2C3E50; /* Dark Blue Border */
+    -fx-border-width: 2px;
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+}
+
+/* 📢 Status Bar Styling */
+.status-bar {
+    -fx-background-color: #EAF2F8; /* Light Blue Grey */
+    -fx-border-color: #B0BEC5; /* Soft Grey */
+    -fx-border-radius: 10px;
+    -fx-padding: 5px;
+    -fx-font-family: "Arial";
+    -fx-font-size: 14px;
+    -fx-text-fill: #2C3E50; /* Dark Blue Text */
+}
+
+/* 🖱️ ScrollPane Styling */
+.scroll-pane {
+    -fx-background-color: transparent;
+    -fx-border-color: #B0BEC5; /* Light Grey */
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: transparent;
+}
+
+/* ⚙️ ScrollBar Styling */
+.scroll-bar {
+    -fx-background-color: #D5DBDB; /* Soft Grey */
+    -fx-border-color: #ABB2B9; /* Slightly Darker Grey */
+    -fx-border-radius: 5px;
+}
+
+.scroll-bar .thumb {
+    -fx-background-color: #5DADE2; /* Light Blue */
+    -fx-background-radius: 5px;
+}
+
+.scroll-bar .thumb:hover {
+    -fx-background-color: #3498DB; /* Slightly Darker Blue */
+}
+
+/* 📝 Tooltip Styling */
+.tooltip {
+    -fx-background-color: #2C3E50; /* Dark Blue */
+    -fx-text-fill: #FFFFFF; /* White */
+    -fx-font-size: 12px;
+    -fx-padding: 5;
+    -fx-border-color: #5DADE2; /* Light Blue Border */
+}
+
+/* 🌟 Hover Effects for List Cells in ComboBox */
+.combo-box .list-cell:hover {
+    -fx-background-color: #5DADE2; /* Light Blue Hover */
+    -fx-text-fill: #FFFFFF;
+}
+
+.combo-box .list-cell:selected {
+    -fx-background-color: #2C3E50; /* Dark Blue Selected */
+    -fx-text-fill: #FFFFFF;
+}
+
+/* 📏 Alignment for HBox (Spacing and Padding) */
+.hbox {
+    -fx-spacing: 10px;
+    -fx-padding: 5px;
+}
+
+.hbox .label {
+    -fx-text-alignment: left;
+    -fx-padding: 5px;
+}
+
+/* 🎯 Alignment for VBox Labels */
+.vbox .label {
+    -fx-text-alignment: center;
+}
+
+.capital-label {
+    -fx-font-size: 10px;
+    -fx-text-fill: white;
+    -fx-background-color: transparent;
+}
+
+.capital-label-hover {
+    -fx-font-size: 25px;
+    -fx-text-fill: white;
+    -fx-background-color: rgba(0, 0, 0, 0.7);
+    -fx-background-radius: 5px;
+    -fx-padding: 3px;
+}

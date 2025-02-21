@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="804.0" prefWidth="1515.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.dijkstras_algorithm_project.FlightsController">
+    <!-- Wrapper Pane for Map and Overlay -->
+    <Pane fx:id="mapWrapperPane" layoutX="0" layoutY="0" prefHeight="615.0" prefWidth="1196.1253662109375">
+
+        <!-- World Map Image -->
+        <ImageView fx:id="worldMapView" fitHeight="615.0" fitWidth="1196.1253662109375" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@worldMap.jpeg" />
+            </image>
+            <viewport>
+                <Rectangle2D />
+            </viewport>
+        </ImageView>
+
+        <!-- Overlay Pane for Markers -->
+        <Pane fx:id="mapOverlayPane" layoutX="0" layoutY="0" mouseTransparent="false" prefHeight="615.0" prefWidth="1196.1253662109375" />
+    </Pane>
+
+    <!-- Source ComboBox -->
+    <Label layoutX="1220.0" layoutY="50.0" text="Source:" />
+    <ComboBox fx:id="sourceComboBox" layoutX="1300.0" layoutY="45.0" prefHeight="37.0" prefWidth="200.0" />
+
+    <!-- Target ComboBox -->
+    <Label layoutX="1220.0" layoutY="100.0" text="Target:" />
+    <ComboBox fx:id="targetComboBox" layoutX="1300.0" layoutY="95.0" prefHeight="37.0" prefWidth="200.0" />
+
+    <!-- Filter ComboBox -->
+    <Label layoutX="1220.0" layoutY="150.0" text="Filter:" />
+    <ComboBox fx:id="filterComboBox" layoutX="1300.0" layoutY="145.0" prefHeight="37.0" prefWidth="200.0" />
+
+    <!-- Run Button -->
+    <Button fx:id="runButton" layoutX="1357.0" layoutY="236.0" onAction="#onRunBtClicked" prefHeight="42.0" prefWidth="136.0" text="Run">
+        <graphic>
+            <ImageView fitHeight="41.0" fitWidth="64.0" pickOnBounds="true" preserveRatio="true">
+                <image>
+                    <Image url="@runPic.png" />
+                </image></ImageView>
+        </graphic></Button>
+
+    <!-- Path Display -->
+    <Label layoutX="14.0" layoutY="652.0" text="Path:" />
+    <TextArea fx:id="pathTextArea" editable="false" layoutX="77.0" layoutY="649.0" prefHeight="130.0" prefWidth="704.0" />
+
+    <!-- Distance Field -->
+    <Label layoutX="840.0" layoutY="651.0" text="Distance:" />
+    <TextField fx:id="distanceField" editable="false" layoutX="937.0" layoutY="652.0" prefHeight="28.0" prefWidth="240.0" />
+
+    <!-- Cost Field -->
+    <Label layoutX="844.0" layoutY="693.0" text="Cost:" />
+    <TextField fx:id="costField" editable="false" layoutX="937.0" layoutY="700.0" prefHeight="28.0" prefWidth="240.0" />
+
+    <!-- Time Field -->
+    <Label layoutX="844.0" layoutY="743.0" text="Time:" />
+    <TextField fx:id="timeField" editable="false" layoutX="937.0" layoutY="750.0" prefHeight="28.0" prefWidth="240.0" />
+    <Button fx:id="resetButton" layoutX="1210.0" layoutY="236.0" onAction="#onResetBtClicked" prefHeight="42.0" prefWidth="136.0" text="Reset">
+        <graphic>
+            <ImageView fitHeight="41.0" fitWidth="64.0" pickOnBounds="true" preserveRatio="true">
+                <image>
+                    <Image url="@resetPic.png" />
+                </image>
+            </ImageView>
+        </graphic></Button>
+    <Button fx:id="mainMenuBt" layoutX="1248.0" layoutY="346.0" onAction="#onMainMenuBtClicked" prefHeight="55.0" prefWidth="207.0" text="Main Menu">
+        <graphic>
+            <ImageView fitHeight="50.0" fitWidth="61.0" pickOnBounds="true" preserveRatio="true">
+                <image>
+                    <Image url="@mainMenuPic.png" />
+                </image></ImageView>
+        </graphic>
+    </Button>
+    <ImageView fitHeight="319.0" fitWidth="252.0" layoutX="1234.0" layoutY="527.0" pickOnBounds="true" preserveRatio="true">
+        <image>
+            <Image url="@pic.png" />
+        </image>
+    </ImageView>
+
+</AnchorPane>

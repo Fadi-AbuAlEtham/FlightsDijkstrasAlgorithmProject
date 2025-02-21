@@ -1,0 +1,293 @@
+65|227
+Athens|37.9838|23.7275
+Washington, D.C.|38.907619223358346|-77.04547817954415
+Abu Dhabi|24.4539|54.3773
+Doha|25.276987|51.520008
+Paris|48.8566|2.3522
+Brasilia|-15.8267|-47.9218
+Ottawa|45.4215|-75.6972
+Brussels|50.8503|4.3517
+Stockholm|59.3293|18.0686
+Rabat|34.020882|-6.84165
+Beirut|33.8938|35.5018
+Jaber|37|37
+Amman|31.9539|35.9106
+Sofia|42.6977|23.3219
+London|51.5074|-0.1278
+Tokyo|35.6895|139.6917
+Berlin|52.52|13.405
+Madrid|40.4168|-3.7038
+Rome|41.9028|12.4964
+Cairo|30.0444|31.2357
+Bangkok|13.7563|100.5018
+Moscow|55.7558|37.6173
+New Delhi|28.6139|77.209
+Mexico City|19.4326|-99.1332
+Buenos Aires|-34.6037|-58.3816
+Jakarta|-6.2088|106.8456
+Seoul|37.549914|126.985207
+Hanoi|21.0285|105.8542
+Riyadh|24.7136|46.6753
+Baghdad|33.3152|44.3661
+Kabul|34.5553|69.2075
+Vienna|48.2082|16.3738
+Helsinki|60.1695|24.9354
+Oslo|59.9139|10.7522
+Copenhagen|55.6761|12.5683
+Warsaw|52.2297|21.0122
+Lisbon|38.7169|-9.139
+Amsterdam|52.3676|4.9041
+Reykjavik|64.1355|-21.8954
+Kuala Lumpur|3.139|101.6869
+Singapore|1.3521|103.8198
+Manila|14.5995|120.9842
+Dhaka|23.8103|90.4125
+Nairobi|-1.286389|36.817223
+Algiers|36.7372|3.0863
+Lima|-12.0464|-77.0428
+Santiago|-33.4489|-70.6693
+Havana|23.1136|-82.3666
+Caracas|10.4806|-66.9036
+Montevideo|-34.9011|-56.1645
+Tripoli|32.8872|13.1913
+Tunis|36.8065|10.1815
+Nouakchott|18.0735|-15.9582
+Khartoum|15.5007|32.5599
+Addis Ababa|9.1450|40.4897
+Cape Town|-33.9249|18.4241
+Luanda|-8.839988|13.289437
+N'Djamena|12.1348|15.0557
+Kigali|-1.9579|30.1127
+Kathmandu|27.7172|85.3240
+Phnom Penh|11.5564|104.9282
+Beijing|39.9042|116.4074
+Niamey|13.5127|2.1124
+Istanbul|41.0151|28.9795
+Honolulu|21.3108736965177|-159.9684618197464
+Seoul|Mexico City|1066$|835 min
+Cairo|Amsterdam|319$|295 min 
+Sofia|Rome|21$|110 min 
+Tokyo|Mexico City|1417$|735 min 
+Brussels|Warsaw|23$|120 min 
+Amman|Vienna|49$|235 min 
+Rome|Cairo|177$|195 min 
+Rome|Mexico City|541$|825 min 
+Brussels|Sofia|18$|160 min 
+Sofia|Vienna|653$|100 min 
+New Delhi|Doha|208$|280 min 
+London|Algiers|184$|170 min 
+Seoul|Brussels|305$|1040 min 
+Oslo|Lisbon|52$|250 min 
+Oslo|Warsaw|21$|110 min 
+Kuala Lumpur|Amsterdam|805$|760 min 
+Rome|Buenos Aires|693$|865 min 
+Copenhagen|Washington, D.C.|542$|555 min 
+Paris|Amsterdam|50$|90 min 
+Cairo|Stockholm|252$|310 min 
+Washington, D.C.|London|433$|430 min 
+Lisbon|Copenhagen|57$|220 min 
+Hanoi|New Delhi|105$|285 min 
+Bangkok|Rome|447$|780 min 
+Singapore|Manila|89$|210 min 
+New Delhi|Hanoi|97$|245 min 
+Lisbon|Cairo|346$|310 min 
+Hanoi|Kuala Lumpur|79$|195 min 
+Cairo|Beirut|123$|80 min 
+Reykjavik|Amsterdam|82$|190 min 
+Madrid|Rabat|25$|100 min 
+Riyadh|Bangkok|511$|415 min 
+Lisbon|Stockholm|62$|265 min 
+Ottawa|Washington, D.C.|180$|96 min 
+Reykjavik|Warsaw|68$|240 min 
+Beirut|Paris|354$|280 min 
+Abu Dhabi|Brussels|582$|425 min 
+Berlin|Amsterdam|59$|90 min 
+Paris|Lisbon|32$|150 min 
+London|Abu Dhabi|609$|410 min 
+Amsterdam|Vienna|182$|110 min 
+Helsinki|Doha|302$|405 min 
+Lisbon|Vienna|42$|210 min 
+Sofia|Oslo|45$|185 min 
+Paris|Copenhagen|30$|115 min 
+Athens|Warsaw|64$|155 min 
+New Delhi|Warsaw|390$|500 min 
+Copenhagen|Beirut|406$|240 min 
+Mexico City|Lima|151$|357 min 
+Oslo|Athens|52$|230 min 
+Brussels|Rabat|30$|190 min 
+Rome|Beirut|378$|190 min 
+Warsaw|Lisbon|58$|265 min 
+Abu Dhabi|Kuala Lumpur|650$|415 min 
+Doha|Baghdad|683$|140 min 
+Brussels|Athens|39$|190 min 
+Rome|New Delhi|440$|455 min 
+Abu Dhabi|Amman|73$|220 min 
+Athens|Reykjavik|219$|180 min 
+Madrid|Stockholm|80$|235 min 
+Cairo|Amman|121$|75 min 
+Amman|Washington, D.C.|670$|780 min 
+Amman|Beirut|220$|60 min 
+Washington, D.C.|Amman|608$|695 min 
+Beirut|Cairo|136$|85 min 
+Athens|Washington, D.C.|715$|660 min 
+Athens|Cairo|107$|115 min 
+Cairo|Tokyo|388$|720 min 
+Tokyo|New Delhi|377$|540 min 
+Tripoli|Tunis|101$|70 min 
+Tripoli|Cairo|93$|160 min 
+Tripoli|Rome|265$|125 min 
+Tunis|Tripoli|106$|70 min 
+Tunis|Algiers|108$|85 min 
+Tunis|Paris|39$|155 min 
+Khartoum|Cairo|276$|120 min 
+Khartoum|Addis Ababa|474$|75 min 
+Khartoum|Nairobi|467$|1075 min 
+Addis Ababa|Nairobi|180$|120 min 
+Addis Ababa|Khartoum|130$|90 min 
+Addis Ababa|Cairo|270$|200 min 
+Cape Town|Luanda|196$|240 min 
+Cape Town|Nairobi|270$|410 min 
+Luanda|Cape Town|517$|240 min 
+Luanda|Nairobi|676$|585 min 
+Luanda|Addis Ababa|549$|285 min 
+N'Djamena|Addis Ababa|464$|240 min 
+Kigali|Nairobi|259$|90 min 
+Kigali|Addis Ababa|242$|145 min 
+Kathmandu|New Delhi|93$|100 min 
+Phnom Penh|Bangkok|72$|70 min 
+Beijing|Tokyo|163$|200 min 
+Niamey|Algiers|439$|220 min 
+Beijing|Seoul|76$|115 min 
+Montevideo|Buenos Aires|124$|55 min 
+Montevideo|Santiago|112$|161 min 
+Phnom Penh|Kuala Lumpur|76$|115 min 
+Tunis|Rome|79$|80 min 
+Amman|Cairo|166$|85 min 
+Madrid|Lima|272$|745 min 
+Kabul|Doha|432$|210 min 
+Doha|Kabul|246$|180 min 
+Seoul|Phnom Penh|192$|335 min 
+Ottawa|Paris|722$|420 min 
+Paris|Ottawa|1288$|470 min 
+Brasilia|Lisbon|567$|550 min 
+Lima|Brasilia|245$|270 min 
+Brasilia|Buenos Aires|88$|115 min 
+Santiago|Brasilia|173$|260 min 
+Brasilia|Santiago|171$|290 min 
+Abu Dhabi|Doha|100$|65 min 
+Doha|Stockholm|274$|465 min 
+Reykjavik|Stockholm|120$|195 min 
+Beijing|Stockholm|1067$|555 min 
+Stockholm|Tokyo|620$|435 min 
+Rome|Rabat|30$|185 min 
+Paris|Rabat|35$|175 min 
+Cairo|Berlin|321$|260 min 
+Paris|Berlin|51$|105 min 
+Oslo|Berlin|35$|95 min 
+Beijing|Berlin|366$|620 min 
+Havana|Madrid|826$|520 min 
+Bangkok|Madrid|392$|795 min 
+Tokyo|Madrid|974$|950 min 
+Seoul|Madrid|527$|920 min 
+Helsinki|Madrid|138$|245 min 
+Copenhagen|Madrid|42$|210 min 
+Lisbon|Madrid|30$|79 min 
+Washington, D.C.|Madrid|434$|470 min 
+Rabat|Madrid|24$|100 min 
+Vienna|Madrid|41$|195 min 
+Madrid|Reykjavik|93$|245 min 
+Madrid|Doha|431$|375 min 
+Bangkok|Singapore|46$|130 min 
+Bangkok|Amman|671$|580 min 
+Bangkok|New Delhi|107$|255 min 
+Bangkok|Jakarta|71$|200 min 
+Bangkok|Abu Dhabi|488$|385 min 
+Bangkok|Hanoi|52$|105 min 
+Nairobi|Bangkok|665$|561 min 
+Addis Ababa|Bangkok|703$|510 min 
+Abu Dhabi|Jakarta|502$|485 min 
+Amsterdam|Jakarta|537$|855 min 
+Hanoi|Jakarta|107$|260 min 
+Beijing|Jakarta|199$|465 min 
+Tokyo|Jakarta|400$|470 min 
+Jakarta|Kuala Lumpur|41$|120 min 
+Jakarta|Phnom Penh|66$|180 min 
+Washington, D.C.|Riyadh|1110$|720 min 
+Warsaw|Riyadh|373$|330 min 
+Rome|Riyadh|86$|320 min 
+Addis Ababa|Riyadh|173$|195 min 
+Athens|Riyadh|140$|225 min 
+Amman|Riyadh|119$|130 min 
+Riyadh|Amman|67$|160 min 
+Riyadh|Dhaka|244$|345 min 
+Riyadh|New Delhi|109$|240 min 
+Baghdad|Cairo|135$|280 min 
+Vienna|Amman|51$|220 min 
+Vienna|Athens|38$|130 min 
+Doha|Helsinki|335$|425 min 
+Kathmandu|Singapore|306$|305 min 
+Tokyo|Singapore|128$|430 min 
+Athens|Singapore|223$|650 min 
+Manila|Singapore|47$|220 min 
+Rome|Dhaka|447$|520 min 
+New Delhi|Dhaka|48$|140 min 
+Dhaka|Cairo|404$|455 min 
+Dhaka|Tokyo|470$|360 min 
+Algiers|Vienna|185$|150 min 
+Algiers|Amman|282$|240 min 
+Paris|Havana|1047$|625 min 
+Caracas|Lisbon|592$|490 min 
+Madrid|Caracas|273$|570 min 
+Madrid|Montevideo|572$|760 min 
+Paris|Nouakchott|803$|305 min 
+Tunis|Nouakchott|155$|270 min 
+Nouakchott|Algiers|363$|115 min 
+N'Djamena|Paris|1723$|600 min 
+N'Djamena|Cairo|461$|300 min 
+Addis Ababa|N'Djamena|683$|245 min 
+Doha|Kigali|236$|370 min 
+Abu Dhabi|Kathmandu|177$|240 min 
+Tunis|Niamey|401$|240 min 
+Tripoli|Amman|253$|210 min 
+Amman|Tripoli|270$|205 min 
+Brussels|Luanda|507$|525 min 
+Doha|Luanda|994$|480 min 
+Luanda|Paris|1865$|525 min 
+Beijing|Brussels|377$|635 min 
+Seoul|Manila|72$|255 min 
+Manila|Abu Dhabi|454$|580 min 
+London|Nairobi|611$|535 min 
+Nairobi|Amsterdam|1251$|951 min 
+Nairobi|New Delhi|256$|425 min 
+Singapore|Beijing|162$|385 min 
+Istanbul|London|31$|250 min 
+Istanbul|Madrid|81$|275 min 
+Istanbul|Abu Dhabi|74$|270 min 
+Istanbul|Amman|121$|170 min 
+Amsterdam|Istanbul|79$|300 min 
+Paris|Istanbul|81$|225 min 
+Cairo|Istanbul|114$|130 min 
+Istanbul|Cairo|136$|130 min 
+Amman|Istanbul|143$|175 min 
+Madrid|Istanbul|59$|250 min 
+Istanbul|Paris|62$|330 min 
+Istanbul|Moscow|745$|240 min 
+Moscow|Istanbul|645$|250 min 
+Moscow|Abu Dhabi|456$|345 min 
+Doha|Moscow|931$|340 min 
+Algiers|Moscow|513$|310 min 
+Moscow|Beijing|293$|465 min 
+Moscow|Cairo|847$|325 min 
+Moscow|Doha|413$|230 min 
+Paris|Washington, D.C.|786$|525 min 
+Washington, D.C.|Vienna|700$|510 min 
+Washington, D.C.|Cairo|514$|620 min 
+Honolulu|Washington, D.C.|633$|552 min 
+Tokyo|Honolulu|272$|385 min 
+Seoul|Honolulu|559$|485 min 
+Honolulu|Manila|644$|680 min 
+Washington, D.C.|Honolulu|568$|661 min 
+Honolulu|Tokyo|273$|525 min 
+Beijing|Washington, D.C.|990$|880 min
+Buenos Aires|Montevideo|127$|50 min
+Jaber|Paris|50$|30 min

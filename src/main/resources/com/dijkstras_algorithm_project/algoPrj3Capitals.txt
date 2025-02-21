@@ -1,0 +1,328 @@
+68|258
+Athens|37.9838|23.7275
+Washington|38.907619223358346|-77.04547817954415
+Abu Dhabi|24.4539|54.3773
+Doha|25.276987|51.520008
+Paris|48.8566|2.3522
+Roseau|15.3092|-61.3794
+Brasilia|-15.8267|-47.9218
+Ottawa|45.4215|-75.6972
+Brussels|50.8503|4.3517
+Stockholm|59.3293|18.0686
+Rabat|34.020882|-6.84165
+Beirut|33.8938|35.5018
+Amman|31.9539|35.9106
+Bern|46.9481|7.4474
+Sofia|42.6977|23.3219
+London|51.5074|-0.1278
+San Juan|18.4655|-66.1057
+Tokyo|35.6895|139.6917
+Berlin|52.52|13.405
+Madrid|40.4168|-3.7038
+Rome|41.9028|12.4964
+Cairo|30.0444|31.2357
+Bangkok|13.7563|100.5018
+Moscow|55.7558|37.6173
+New Delhi|28.6139|77.209
+Mexico City|19.4326|-99.1332
+Buenos Aires|-34.6037|-58.3816
+Canberra|-35.2809|149.13
+Jakarta|-6.2088|106.8456
+Seoul|37.549914|126.985207
+Hanoi|21.0285|105.8542
+Riyadh|24.7136|46.6753
+Pretoria|-25.7461|28.1881
+Baghdad|33.3152|44.3661
+Kabul|34.5553|69.2075
+Vienna|48.2082|16.3738
+Helsinki|60.1695|24.9354
+Oslo|59.9139|10.7522
+Copenhagen|55.6761|12.5683
+Warsaw|52.2297|21.0122
+Lisbon|38.7169|-9.139
+Amsterdam|52.3676|4.9041
+Reykjavik|64.1355|-21.8954
+Kuala Lumpur|3.139|101.6869
+Singapore|1.3521|103.8198
+Manila|14.5995|120.9842
+Dhaka|23.8103|90.4125
+Nairobi|-1.286389|36.817223
+Algiers|36.7372|3.0863
+Lima|-12.0464|-77.0428
+Santiago|-33.4489|-70.6693
+Havana|23.1136|-82.3666
+Caracas|10.4806|-66.9036
+Montevideo|-34.9011|-56.1645
+Tripoli|32.8872|13.1913
+Tunis|36.8065|10.1815
+Nouakchott|18.0735|-15.9582
+Khartoum|15.5007|32.5599
+Addis Ababa|9.1450|40.4897
+Cape Town|-33.9249|18.4241
+Luanda|-8.839988|13.289437
+N'Djamena|12.1348|15.0557
+Kigali|-1.9579|30.1127
+Kathmandu|27.7172|85.3240
+Phnom Penh|11.5564|104.9282
+Wellington|-41.2924099910259|174.77760088601906
+Beijing|39.9042|116.4074
+Niamey|13.5127|2.1124
+Seoul|Mexico City|1066$|835 min (Direct)
+Brasilia|Seoul|910$|1875 min (1 stop)
+Riyadh|Moscow|537$|530 min (1 stop)
+Buenos Aires|Algiers|827$|970 min (1 stop)
+New Delhi|Pretoria|953$|835 min (1 stop)
+Seoul|Moscow|580$|825 min (1 stop)
+Cairo|Amsterdam|319$|295 min (Direct)
+Sofia|Rome|21$|110 min (Direct)
+Tokyo|Mexico City|1417$|735 min (Direct)
+Moscow|Kuala Lumpur|390$|970 min (1 stop)
+Paris|San Juan|607$|1840 min (2 stops)
+Lima|Roseau|1014$|2285 min (2 stops)
+Brussels|Warsaw|23$|120 min (Direct)
+Amman|Vienna|49$|235 min (Direct)
+Rome|Cairo|177$|195 min (Direct)
+Dhaka|Buenos Aires|1236$|1570 min (1 stop)
+Nairobi|Buenos Aires|894$|1615 min (1 stop)
+Rome|Mexico City|541$|825 min (Direct) 
+Stockholm|Moscow|273$|765 min (1 stop)
+Brussels|Sofia|18$|160 min (Direct)
+Doha|Buenos Aires|1251$|1350 min (1 stop)
+Kabul|Copenhagen|474$|1320 min (1 stop)
+Nairobi|Bern|658$|850 min (1 stop)
+Sofia|Vienna|653$|100 min (Direct)
+Rabat|Dhaka|856$|890 min (1 stop)
+Mexico City|Cairo|533$|1215 min (1 stop)
+Jakarta|Warsaw|459$|1055 min (1 stop)
+New Delhi|Doha|208$|280 min (Direct)
+Amsterdam|Dhaka|454$|735 min (1 stop)
+Santiago|Canberra|1095$|1265 min (1 stop)
+Warsaw|San Juan|1156$|960 min (1 stop)
+London|Algiers|184$|170 min (Direct)
+Seoul|Nairobi|250$|1275 min (1 stop)
+Dhaka|Canberra|464$|1675 min (2 stops)
+Brasilia|Bern|1368$|1150 min (2 stops)
+Bern|Dhaka|780$|885 min (1 stop)
+Caracas|Sofia|459$|970 min (1 stop)
+Kabul|Stockholm|509$|1455 min (1 stop)
+Pretoria|Paris|751$|690 min (1 stop)
+Seoul|Brussels|305$|1040 min (Direct)
+Baghdad|Singapore|625$|1115 min (1 stop)
+Brasilia|San Juan|227$|785 min (1 stop)
+Kuala Lumpur|Vienna|324$|895 min (1 stop)
+Oslo|Lisbon|52$|250 min (Direct)
+Madrid|Baghdad|152$|540 min (1 stop)
+Oslo|Warsaw|21$|110 min (Direct)
+Brussels|Riyadh|147$|530 min (1 stop)
+Pretoria|Copenhagen|382$|1015 min (1 stop)
+Kuala Lumpur|Amsterdam|805$|760 min
+Beirut|Algiers|308$|455 min (1 stop)
+Amman|Copenhagen|116$|430 min (1 stop)
+Stockholm|Lima|550$|1135 min (1 stop)
+Manila|Rome|322$|1110 min (1 stop)
+Brussels|Canberra|745$|2320 min (2 stops)
+Rome|Buenos Aires|693$|865 min (Direct)
+Kuala Lumpur|Lisbon|449$|1015 min (1 stop)
+Dhaka|Nairobi|372$|695 min (1 stop)
+Copenhagen|Washington|542$|555 min (Direct)
+Dhaka|Baghdad|342$|585 min (1 stop)
+Dhaka|Vienna|383$|1755 min (1 stop)
+Paris|Amsterdam|50$|90 min (Direct)
+Lisbon|Hanoi|468$|1070 min (1 stop)
+Copenhagen|Manila|398$|1140 min (1 stop)
+Caracas|Algiers|1480$|1625 min (2 stops)
+Moscow|Singapore|494$|1080 min (1 stop)
+Amman|Helsinki|152$|545 min (1 stop)
+Cairo|Stockholm|252$|310 min (Direct)
+Pretoria|Algiers|462$|995 min (1 stop)
+Manila|Canberra|219$|1220 min (1 stop)
+Havana|Stockholm|1715$|895 min (1 stop)
+Washington|London|433$|430 min (Direct)
+Riyadh|Kuala Lumpur|249$|590 min (1 stop)
+Lisbon|Copenhagen|57$|220 min (Direct)
+Hanoi|New Delhi|105$|285 min (Direct)
+Bangkok|Rome|447$|780 min (Direct)
+Singapore|Manila|89$|210 min (Direct)
+Santiago|Athens|654$|1100 min (1 stop)
+New Delhi|Hanoi|97$|245 min (Direct)
+Singapore|Rabat|537$|1645 min (1 stop)
+Pretoria|Rome|368$|1130 min (1 stop)
+Tokyo|Beirut|480$|1080 min (1 stop)
+Havana|Cairo|1347$|1355 min (2 stops)
+Seoul|Rabat|348$|1300 min (1 stop)
+Lisbon|Cairo|346$|310 min (Direct)
+Havana|Helsinki|1608$|1160 min (2 stops)
+Moscow|Bangkok|379$|920 min (1 stop)
+Hanoi|Kuala Lumpur|79$|195 min (Direct)
+Cairo|Beirut|123$|80 min (Direct)
+Roseau|Santiago|871$|1425 min (2 stops)
+San Juan|Cairo|967$|2190 min (2 stops)
+Reykjavik|Amsterdam|82$|190 min (Direct)
+Madrid|Rabat|25$|100 min (Direct)
+Hanoi|Reykjavik|729$|1170 min (1 stop)
+Rome|San Juan|782$|1290 min (1 stop)
+Baghdad|Caracas|1430$|1565 min (1 stop)
+Cairo|Kuala Lumpur|327$|745 min (1 stop)
+Brussels|New Delhi|288$|745 min (1 stop)
+Caracas|Amman|620$|970 min (1 stop)
+Havana|Copenhagen|1480$|745 min (1 stop)
+Lisbon|Havana|531$|795 min (1 stop)
+Canberra|London|1105$|1685 min (1 stop)
+Caracas|San Juan|535$|1635 min (1 stop)
+Riyadh|Bangkok|511$|415 min (Direct)
+Singapore|Warsaw|364$|890 min (1 stop)
+Roseau|Madrid|710$|1280 min (1 stop)
+Havana|New Delhi|2137$|1290 min (1 stop)
+Riyadh|Caracas|1162$|1561 min (1 stop)
+Stockholm|Havana|504$|680 min (1 stop)
+Caracas|Stockholm|532$|885 min (1 stop)
+Lisbon|Stockholm|62$|265 min (Direct)
+Roseau|Bern|1234$|1200 min (2 stops)
+Santiago|Algiers|691$|995 min (1 stop)
+Algiers|Santiago|508$|1470 min (1 stop)
+Baghdad|Santiago|695$|2195 min (2 stops)
+Ottawa|Washington|180$|96 min (Direct)
+Reykjavik|Warsaw|68$|240 min (Direct)
+Nairobi|Copenhagen|445$|95 min (1 stop)
+Seoul|Reykjavik|438$|1400 min (1 stop)
+Beirut|Paris|354$|280 min (Direct)
+Reykjavik|Ottawa|463$|730 min (1 stop)
+Moscow|Vienna|633$|770 min (1 stop)
+Baghdad|Havana|1571$|1875 min (2 stops)
+Nairobi|Bangkok|700$|561 min (Direct)
+Pretoria|Washington|628$|1455 min (1 stop)
+Abu Dhabi|Brussels|582$|425 min (Direct)
+Berlin|Amsterdam|59$|90 min (Direct)
+Paris|Lisbon|32$|150 min (Direct)
+London|Abu Dhabi|609$|410 min (Direct)
+Kabul|Lisbon|718$|1165 min (1 stop)
+Riyadh|San Juan|846$|1995 min (3 stops)
+San Juan|Baghdad|1158$|1830 min (2 stops)
+Hanoi|Canberra|226$|960 min (1 stop)
+Reykjavik|Jakarta|751$|1290 min (1 stop)
+Amsterdam|Vienna|182$|110 min (Direct)
+Riyadh|Brussels|81$|830 min (1 stop)
+Riyadh|Amman|69$|160 min (Direct)
+Santiago|San Juan|118$|365 min (1 stop)
+Pretoria|Berlin|390$|925 min (1 stop)
+Helsinki|Doha|302$|405 min (Direct)
+Berlin|Manila|376$|1240 min (1 stop)
+Canberra|Brasilia|1039$|1585 min (2 stops)
+Lisbon|Vienna|42$|210 min (Direct)
+Brasilia|Copenhagen|684$|1040 min (1 stop)
+Caracas|Jakarta|878$|2210 min (2 stops)
+Sofia|Oslo|45$|185 min (Direct)
+Baghdad|Brussels|165$|565 min (1 stop)
+Bern|Hanoi|974$|920 min (1 stop)
+Canberra|Nairobi|454$|2170 min (2 stops)
+Amman|Lisbon|143$|515 min (1 stop)
+Pretoria|Baghdad|536$|975 min (1 stop)
+Manila|Baghdad|526$|770 min (1 stop)
+Montevideo|Abu Dhabi|1333$|1395 min
+Montevideo|Lisbon|573$|1125 min (1 stop)
+Paris|Copenhagen|30$|115 min (Direct)
+Rabat|Pretoria|420$|1450 min (2 stops)
+Athens|Warsaw|64$|155 min (Direct)
+New Delhi|Warsaw|390$|500 min (Direct)
+Kabul|Amman|428$|585 min (1 stop)
+Copenhagen|Beirut|406$|240 min (Direct)
+Copenhagen|Buenos Aires|605$|1160 min (1 stop)
+Mexico City|Lima|151$|357 min (Direct)
+Oslo|Athens|52$|230 min (Direct)
+Stockholm|Singapore|271$|1170 min (1 stop)
+Vienna|Santiago|512$|1200 min (1 stop)
+Brussels|Rabat|30$|190 min (Direct)
+Havana|Dhaka|1608$|1730 min (2 stops)
+Moscow|Jakarta|481$|1340 min (1 stop)
+Amman|Nairobi|311$|540 min (1 stop)
+Rabat|Abu Dhabi|197$|845 min (2 stops)
+Roseau|Kuala Lumpur|1601$|1750 min (2 stops)
+New Delhi|Roseau|1050$|1440 min (2 stops)
+Rome|Beirut|378$|190 min (Direct)
+Warsaw|Lisbon|58$|265 min (Direct)
+Canberra|Singapore|222$|990 min (1 stop)
+Reykjavik|Amman|129$|805 min (1 stop)
+Abu Dhabi|Kuala Lumpur|650$|415 min (Direct)
+Nairobi|Rome|467$|780 min (1 stop)
+Doha|Baghdad|683$|140 min (Direct)
+Santiago|Washington|274$|855 min (1 stop)
+Brussels|Athens|39$|190 min (Direct)
+Rome|New Delhi|440$|455 min (Direct)
+Abu Dhabi|Amman|73$|220 min (Direct)
+San Juan|Rabat|1094$|1065 min (2 stops)
+Athens|Reykjavik|219$|180 min (Direct)
+Lima|Seoul|1153$|1660 min (1 stop)
+Stockholm|San Juan|1230$|1154 min (2 stops)
+Bern|Doha|287$|625 min (1 stop)
+Kuala Lumpur|Helsinki|432$|1040 min (1 stop)
+Canberra|Caracas|2370$|1285 min (2 stops)
+Warsaw|Washington|309$|980 min (1 stop)
+Singapore|Ottawa|860$|1423 min (1 stop)
+Buenos Aires|Mexico City|381$|894 min (1 stop)
+Washington|Baghdad|632$|850 min (1 stop)
+Brasilia|Amsterdam|595$|835 min (1 stop)
+Paris|Montevideo|636$|980 min (1 stop)
+Madrid|Stockholm|80$|235 min (Direct)
+Cairo|Amman|121$|75 min (Direct)
+New Delhi|Amman|213$|540 min (1 stop)
+Amman|Washington|670$|780 min (Direct)
+Amman|Beirut|220$|60 min (Direct)
+Washington|Amman|608$|695 min (Direct)
+Washington|Beirut|418$|890 min (1 stop)
+Beirut|Cairo|136$|85 min (Direct)
+Athens|Washington|715$|660 min (Direct)
+Athens|Cairo|107$|115 min (Direct)
+Cairo|Tokyo|388$|720 min (Direct)
+Tokyo|New Delhi|377$|540 min (Direct)
+Tripoli|Tunis|101$|70 min (Direct)
+Tripoli|Cairo|93$|160 min (Direct)
+Tripoli|Rome|265$|125 min (Direct)
+Tunis|Tripoli|106$|70 min (Direct)
+Tunis|Algiers|108$|85 min (Direct)
+Tunis|Paris|39$|155 min (Direct)
+Nouakchott|Rabat|435$|1155 min (1 stop)
+Nouakchott|Lisbon|459$|310 min (1 stop)
+Khartoum|Cairo|276$|120 min (Direct)
+Khartoum|Addis Ababa|474$|75 min (Direct)
+Khartoum|Nairobi|467$|1075 min (Direct)
+Addis Ababa|Nairobi|180$|120 min (Direct)
+Addis Ababa|Khartoum|130$|90 min (Direct)
+Addis Ababa|Cairo|270$|200 min (Direct)
+Cape Town|Luanda|196$|240 min (Direct)
+Cape Town|Nairobi|270$|410 min (Direct)
+Luanda|Cape Town|517$|240 min (Direct)
+Luanda|Nairobi|676$|585 min (Direct)
+Luanda|Addis Ababa|549$|285 min (Direct)
+N'Djamena|Khartoum|756$|1450 min (1 stop)
+N'Djamena|Addis Ababa|464$|240 min (Direct)
+N'Djamena|Cairo|462$|200 min (Direct)
+Kigali|Nairobi|259$|90 min (Direct)
+Kigali|Addis Ababa|242$|145 min (Direct)
+Kathmandu|New Delhi|93$|100 min (Direct)
+Phnom Penh|Bangkok|72$|70 min (Direct)
+Wellington|Canberra|204$|480 min (1 stop)
+Beijing|Tokyo|163$|200 min (Direct)
+Niamey|Algiers|439$|220 min (Direct)
+Riyadh|Khartoum|409$|605 min (1 stop)
+Beijing|Seoul|76$|115 min (Direct)
+Amman|Beijing|458$|870 min (1 stop)
+Kathmandu|Hanoi|158$|975 min (1 stop)
+Montevideo|Buenos Aires|124$|55 min (Direct)
+Montevideo|Santiago|112$|161 min (Direct)
+Niamey|Rabat|677$|925 min (1 stop)
+Phnom Penh|Kuala Lumpur|76$|115 min (Direct)
+Tunis|Rome|79$|80 min (Direct)
+Riyadh|Kigali|299$|915 min (1 stop)
+Cape Town|Havana|1008$|2811 min (3 stops)
+Phnom Penh|Cape Town|1646$|1455 min (1 stop)
+Beijing|Luanda|470$|1665 min (1 stop)
+Cairo|Luanda|391$|1410 min (1 stop)
+Amman|Cairo|166$|85 min (Direct)
+Cairo|Nouakchott|340$|1350 min (1 stop)
+Madrid|Lima|272$|745 min (Direct)
+Tokyo|Wellington|476$|825 min (1 stop)
+Singapore|Wellington|424$|830 min (1 stop)
+Wellington|Jakarta|386$|870 min (1 stop)
+Kabul|Doha|432$|210 min (Direct)
+Doha|Kabul|246$|180 min (Direct)
+Seoul|Phnom Penh|192$|335 min (Direct)
